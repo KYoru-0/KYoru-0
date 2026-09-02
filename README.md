@@ -1,9 +1,8 @@
 <div align="center">  
   <br>
-  <img alt="KYoru" src="images/512.png" width="160" style="border-radius: 50%;">
+  <img alt="KYoru" src="images/KYoru.png" width="100%">
  
-
-  <br><br>
+  <br>
 
   <!-- Title & Tagline -->
   <h1 style="font-size: 39px"><span style="font-size: 24px; font-weight: normal">【✧】</span><br>KYoru</h1>
@@ -38,27 +37,31 @@
 
 ---
 
-### About Me
+<h3 align="center">About Me</h3>
 
 Computer Science student, developer and digital creator.
-<br><br>
+
 ✦ **Education:** Ton Duc Thang University, Faculty of Information Technology, Computer Science Major.  
+
 ✦ **Development:** Focused on full-stack web technologies, software engineering, agent-driven multifunctional tools.  
-✦ **Music Composing and Arranging:** Composing, transcribing and arranging scores on [MuseScore](https://musescore.com/user/47514065).  
+
+✦ **Music Composing and Arranging:** Composing, transcribing and arranging scores on [MuseScore](https://musescore.com/user/47514065). 
+
 ✦ **Digital Content Creation:**  
 &nbsp;&nbsp;&nbsp;&nbsp;✧ [VTuber translation videos](https://www.youtube.com/watch?v=YSdLDZqFIdY)  
 &nbsp;&nbsp;&nbsp;&nbsp;✧ [Lyric/romaji videos for Memento Mori soundtracks](https://www.youtube.com/playlist?list=PLemQNWC6aXao)  
 &nbsp;&nbsp;&nbsp;&nbsp;✧ [Livestreams of various topics](https://www.youtube.com/@%E3%81%8D%E3%82%87%E3%82%8B-KYoru/streams)  
-✦ **Current Academic Research:** Application of evolutionary computation to closed high-utility itemset mining problem.
 
+✦ **Current Academic Research:** Application of evolutionary computation to closed high-utility itemset mining problem.
 
 ---
 
-### Tech Stack & Toolkit
+<h3 align="center">Tech Stack & Toolkit</h3>
 
 <div align="center">
 
 #### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -71,12 +74,14 @@ Computer Science student, developer and digital creator.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### Frameworks & Ecosystem
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 #### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -95,22 +100,15 @@ Computer Science student, developer and digital creator.
 
 ---
 
-### GitHub Metrics
+<h3 align="center">GitHub Contributions</h3>
 
 <div align="center">
-
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KYoru-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KYoru's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYoru-0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KYoru-0&theme=tokyonight&hide_border=true" alt="KYoru's Streak" />
-
+  <img width="100%" src="https://ghchart.rshah.org/7aa2f7/KYoru-0" alt="KYoru's Contribution Calendar" />
 </div>
 
 ---
 
-### Get in Touch
+<h3 align="center">Get in Touch</h3>
 
 <p align="center">
   Whether you have an interesting project idea, want to collaborate, or just want to chat:
