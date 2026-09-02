@@ -19,16 +19,16 @@
 
   <!-- Badges -->
   <p>
-    <a href="https://github.com/KYoru-0">
+    <a href="https://github.com/KYoru-0" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-KYoru--0-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://twitter.com/KYoru____">
+    <a href="https://twitter.com/KYoru____" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-KYoru________-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
     </a>
-    <a href="https://youtube.com/@KYoru-0">
+    <a href="https://youtube.com/@KYoru-0" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-KYoru-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
     </a>
-    <a href="https://musescore.com/user/47514065">
+    <a href="https://musescore.com/user/47514065" target="_blank">
       <img src="https://img.shields.io/badge/MuseScore-KYoru-2E6BE6?style=flat-square&logo=musescore&logoColor=white" alt="MuseScore">
     </a>
   </p>
@@ -45,12 +45,12 @@ Computer Science student, developer and digital creator.
 
 ✦ **Development:** Focused on full-stack web technologies, software engineering, agent-driven multifunctional tools.  
 
-✦ **Music Composing and Arranging:** Composing, transcribing and arranging scores on [MuseScore](https://musescore.com/user/47514065). 
+✦ **Music Composing and Arranging:** Composing, transcribing and arranging scores on <a href="https://musescore.com/user/47514065" target="_blank">MuseScore</a>. 
 
 ✦ **Digital Content Creation:**  
-&nbsp;&nbsp;&nbsp;&nbsp;✧ [VTuber translation videos](https://www.youtube.com/watch?v=YSdLDZqFIdY)  
-&nbsp;&nbsp;&nbsp;&nbsp;✧ [Lyric/romaji videos for Memento Mori soundtracks](https://www.youtube.com/playlist?list=PLemQNWC6aXao)  
-&nbsp;&nbsp;&nbsp;&nbsp;✧ [Livestreams of various topics](https://www.youtube.com/@%E3%81%8D%E3%82%87%E3%82%8B-KYoru/streams)  
+&nbsp;&nbsp;&nbsp;&nbsp;✧ <a href="https://www.youtube.com/watch?v=YSdLDZqFIdY" target="_blank">VTuber translation videos</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;✧ <a href="https://www.youtube.com/playlist?list=PLemQNWC6aXao" target="_blank">Lyric/romaji videos for Memento Mori soundtracks</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;✧ <a href="https://www.youtube.com/@%E3%81%8D%E3%82%87%E3%82%8B-KYoru/streams" target="_blank">Livestreams of various topics</a>  
 
 ✦ **Current Academic Research:** Application of evolutionary computation to closed high-utility itemset mining problem.
 
