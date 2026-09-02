@@ -100,18 +100,6 @@ Computer Science student, developer and digital creator.
 
 ---
 
-<h3 align="center">Get in Touch</h3>
-
-<p align="center">
-  Whether you have an interesting project idea, want to collaborate, or just want to chat:
-  <br><br>
-  <a href="mailto:kyoru4649@gmail.com">
-    <img src="https://img.shields.io/badge/Drop%20an%20Email-kyoru4649%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email KYoru">
-  </a>
-</p>
-
----
-
 <div align="center">
   <p style="font-size: 20px;">【✧】</p>
 </div>
