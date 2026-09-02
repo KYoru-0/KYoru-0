@@ -100,14 +100,6 @@ Computer Science student, developer and digital creator.
 
 ---
 
-<h3 align="center">GitHub Contributions</h3>
-
-<div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/7aa2f7/KYoru-0" alt="KYoru's Contribution Calendar" />
-</div>
-
----
-
 <h3 align="center">Get in Touch</h3>
 
 <p align="center">
