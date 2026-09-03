@@ -1,0 +1,25 @@
+name: GitHub Readme YouTube Cards
+
+on:
+  schedule:
+    # Runs everyday at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCY-A437NK_AzjplT3NFQQ4g
+          comment_tag_name: YOUTUBE-CARDS
+          max_videos: 6
+          card_width: 280
+          border_radius: 8
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#8b949e"

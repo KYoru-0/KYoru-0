@@ -48,48 +48,8 @@ Computer Science student, developer and digital creator.
 ✦ **Music Composing and Arranging:** Composing, transcribing and arranging scores on [MuseScore](https://musescore.com/user/47514065). 
 
 ✦ **Digital Content Creation:**  
-    **✧ VTuber translation videos**
-    <table>
-      <tr>
-        <td width="280" valign="top">
-          <a href="https://www.youtube.com/watch?v=YSdLDZqFIdY">
-            <img src="https://img.youtube.com/vi/YSdLDZqFIdY/hqdefault.jpg" width="280" height="158" alt="Japanese is hard - 日本語は難しい 【#リリカット】" style="border-radius: 6px; object-fit: cover;">
-          </a>
-          <br>
-          <a href="https://www.youtube.com/watch?v=YSdLDZqFIdY">
-            <b>▶ Japanese is hard - 日本語は難しい 【#リリカット】</b>
-          </a>
-        </td>
-      </tr>
-    </table>
-    **✧ Lyric/romaji videos for Memento Mori soundtracks**
-    <table>
-      <tr>
-        <td width="280" valign="top">
-          <a href="https://www.youtube.com/watch?v=Ow5cbENFajA">
-            <img src="https://img.youtube.com/vi/Ow5cbENFajA/hqdefault.jpg" width="280" height="158" alt="the trust - Chihara Minori (JP Ver.)" style="border-radius: 6px; object-fit: cover;">
-          </a>
-          <br>
-          <a href="https://www.youtube.com/watch?v=Ow5cbENFajA">
-            <b>▶ the trust - Chihara Minori (JP Ver.) | Lyric Video + | Japanese/Romaji</b>
-          </a>
-        </td>
-      </tr>
-    </table>
-    **✧ Livestreams of various topics**
-    <table>
-      <tr>
-        <td width="280" valign="top">
-          <a href="https://www.youtube.com/watch?v=0jx09n6B9aM">
-            <img src="https://img.youtube.com/vi/0jx09n6B9aM/hqdefault.jpg" width="280" height="158" alt="【Working | 4】 a 20-year-old guy working on his academic project" style="border-radius: 6px; object-fit: cover;">
-          </a>
-          <br>
-          <a href="https://www.youtube.com/watch?v=0jx09n6B9aM">
-            <b>▶ 【Working | 4】 a 20-year-old guy working on his academic project</b>
-          </a>
-        </td>
-      </tr>
-    </table>  
+<!-- YOUTUBE-CARDS:START -->
+<!-- YOUTUBE-CARDS:END -->
 
 ✦ **Current Academic Research:** Application of evolutionary computation to closed high-utility itemset mining problem.
 
