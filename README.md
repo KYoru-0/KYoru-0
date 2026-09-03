@@ -48,9 +48,17 @@ Computer Science student, developer and digital creator.
 ✦ **Music Composing and Arranging:** Composing, transcribing and arranging scores on [MuseScore](https://musescore.com/user/47514065). 
 
 ✦ **Digital Content Creation:**  
-&nbsp;&nbsp;&nbsp;&nbsp;✧ [VTuber translation videos](https://www.youtube.com/watch?v=YSdLDZqFIdY)  
-&nbsp;&nbsp;&nbsp;&nbsp;✧ [Lyric/romaji videos for Memento Mori soundtracks](https://www.youtube.com/playlist?list=PLemQNWC6aXao)  
-&nbsp;&nbsp;&nbsp;&nbsp;✧ [Livestreams of various topics](https://www.youtube.com/@%E3%81%8D%E3%82%87%E3%82%8B-KYoru/streams)  
+    **✧ VTuber translation videos**  
+        [![Japanese is hard - 日本語は難しい 【#リリカット】](https://img.youtube.com/vi/YSdLDZqFIdY/hqdefault.jpg)](https://www.youtube.com/watch?v=YSdLDZqFIdY)  
+        ▶ [**Japanese is hard - 日本語は難しい 【#リリカット】**](https://www.youtube.com/watch?v=YSdLDZqFIdY)  
+    <br>
+    **✧ Lyric/romaji videos for Memento Mori soundtracks**  
+        [![the trust - Chihara Minori (JP Ver.) | Lyric Video + | Japanese/Romaji](https://img.youtube.com/vi/Ow5cbENFajA/hqdefault.jpg)](https://www.youtube.com/watch?v=Ow5cbENFajA)  
+        ▶ [**the trust - Chihara Minori (JP Ver.) | Lyric Video + | Japanese/Romaji**](https://www.youtube.com/watch?v=Ow5cbENFajA)  
+    <br>
+    **✧ Livestreams of various topics**  
+        [![【Working | 4】 a 20-year-old guy working on his academic project](https://img.youtube.com/vi/0jx09n6B9aM/hqdefault.jpg)](https://www.youtube.com/watch?v=0jx09n6B9aM)  
+        ▶ [**【Working | 4】 a 20-year-old guy working on his academic project**](https://www.youtube.com/watch?v=0jx09n6B9aM)  
 
 ✦ **Current Academic Research:** Application of evolutionary computation to closed high-utility itemset mining problem.
 
