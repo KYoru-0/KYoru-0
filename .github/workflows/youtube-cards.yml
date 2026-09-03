@@ -16,8 +16,9 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCY-A437NK_AzjplT3NFQQ4g
-          comment_tag_name: YOUTUBE-CARDS
-          max_videos: 6
+          comment_tag_name: YOUTUBE-LIVESTREAMS
+          filter_regex: "Working"
+          max_videos: 3
           card_width: 280
           border_radius: 8
           background_color: "#0d1117"
