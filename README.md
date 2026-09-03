@@ -56,6 +56,9 @@ Computer Science student, developer and digital creator.
     <br>
     &nbsp;&nbsp;**✧ Livestreams of various topics**
 <!-- BEGIN YOUTUBE-LIVESTREAMS -->
+[![【✧】 Anemone (Memento Mori OST) | Soft Piano Arrangement by KYoru](https://ytcards.demolab.com/?id=_OvBNzdpHKQ&title=%E3%80%90%E2%9C%A7%E3%80%91+Anemone+%28Memento+Mori+OST%29+%7C+Soft+Piano+Arrangement+by+KYoru&lang=en&timestamp=1787899794&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "【✧】 Anemone (Memento Mori OST) | Soft Piano Arrangement by KYoru")](https://www.youtube.com/watch?v=_OvBNzdpHKQ)
+[![67](https://ytcards.demolab.com/?id=oTXq21faX74&title=67&lang=en&timestamp=1787896445&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "67")](https://www.youtube.com/shorts/oTXq21faX74)
+[![the light - Saito Shuka (JP Ver.) | Lyric Video + | Japanese/Romaji](https://ytcards.demolab.com/?id=v1uAyyXT1OQ&title=the+light+-+Saito+Shuka+%28JP+Ver.%29+%7C+Lyric+Video+%2B+%7C+Japanese%2FRomaji&lang=en&timestamp=1787805928&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "the light - Saito Shuka (JP Ver.) | Lyric Video + | Japanese/Romaji")](https://www.youtube.com/watch?v=v1uAyyXT1OQ)
 <!-- END YOUTUBE-LIVESTREAMS -->
 
 ✦ **Current Academic Research:** Application of evolutionary computation to closed high-utility itemset mining problem.
