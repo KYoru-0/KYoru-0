@@ -48,15 +48,13 @@ Computer Science student, developer and digital creator.
 ✦ **Music Composing and Arranging:** Composing, transcribing and arranging scores on [MuseScore](https://musescore.com/user/47514065). 
 
 ✦ **Digital Content Creation:**  
-    **✧ VTuber translation videos**
-    <br>
+    &nbsp;&nbsp; **✧ VTuber translation videos**  
     [![Japanese is hard - 日本語は難しい 【#リリカット】](https://ytcards.demolab.com/?id=YSdLDZqFIdY&title=Japanese+is+hard+-+%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AF%E9%9B%A3%E3%81%97%E3%81%84+%E3%81%8F%E2%99%A1%E3%83%AA%E3%83%AA%E3%82%AB%E3%83%83%E3%83%88%E3%80%91&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=2&width=280&border_radius=8 "Japanese is hard - 日本語は難しい 【#リリカット】")](https://www.youtube.com/watch?v=YSdLDZqFIdY)
-
-    **✧ Lyric/romaji videos for Memento Mori soundtracks**
-    <br>
+    <br><br>
+    &nbsp;&nbsp; **✧ Lyric/romaji videos for Memento Mori soundtracks**  
     [![the trust - Chihara Minori (JP Ver.) | Lyric Video + | Japanese/Romaji](https://ytcards.demolab.com/?id=Ow5cbENFajA&title=the+trust+-+Chihara+Minori+%28JP+Ver.%29+%7C+Lyric+Video+%2B+%7C+Japanese%2FRomaji&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=2&width=280&border_radius=8 "the trust - Chihara Minori (JP Ver.) | Lyric Video + | Japanese/Romaji")](https://www.youtube.com/watch?v=Ow5cbENFajA&list=PLemQNWC6aXao)
-
-    **✧ Livestreams of various topics**
+    <br><br>
+    &nbsp;&nbsp;**✧ Livestreams of various topics**
 <!-- BEGIN YOUTUBE-LIVESTREAMS -->
 <!-- END YOUTUBE-LIVESTREAMS -->
 
