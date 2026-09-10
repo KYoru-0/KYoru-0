@@ -77,7 +77,7 @@ An automated lyric-to-vocal synchronization engine leveraging deep learning and 
 
 #### [KAngel OVERDOSE](https://kangeloverdose.wordpress.com/)
 
-An unofficial fan website dedicated to *NEEDY GIRL OVERDOSE* (NEEDY STREAMER OVERLOAD) and OMGkawaiiAngel (KAngel), featuring original discography, fan art galleries, and stream archives.
+An unofficial fan website dedicated to OMGkawaiiAngel (KAngel).
 
 <p align="center">
   <a href="https://kangeloverdose.wordpress.com/">
