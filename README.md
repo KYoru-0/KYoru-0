@@ -61,6 +61,32 @@ Computer Science student, developer and digital creator.
 
 ---
 
+<h3 align="center">Products</h3>
+
+#### [Project:KOTOBA](https://github.com/KYoru-0/Project-KOTOBA)
+
+Browser extension and backend system for real-time Japanese VTuber stream translation, using RAG to identify cultural references, entities, and running jokes while providing contextual explanations.
+
+<p align="center">
+  <img alt="Project:KOTOBA Demo" src="images/KOTOBA.png" width="100%">
+</p>
+
+#### [Project:UTA](https://github.com/KYoru-0/Project-UTA)
+
+An automated lyric-to-vocal synchronization engine leveraging deep learning and forced alignment for perfect phonetic timing in Japanese music.
+
+#### [KAngel OVERDOSE](https://kangeloverdose.wordpress.com/)
+
+An unofficial fan website dedicated to *NEEDY GIRL OVERDOSE* (NEEDY STREAMER OVERLOAD) and OMGkawaiiAngel (KAngel), featuring original discography, fan art galleries, and stream archives.
+
+<p align="center">
+  <a href="https://kangeloverdose.wordpress.com/">
+    <img alt="KAngel OVERDOSE" src="images/kangeloverdose.png" width="100%">
+  </a>
+</p>
+
+---
+
 <h3 align="center">Tech Stack & Toolkit</h3>
 
 <div align="center">
