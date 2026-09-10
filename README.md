@@ -71,7 +71,7 @@ Browser extension and backend system for real-time Japanese VTuber stream transl
   <img alt="Project:KOTOBA Demo" src="images/KOTOBA.png" width="100%">
 </p>
 
-#### [Project:UTA](https://github.com/KYoru-0/Project-UTA)
+#### [Project:UTA](https://github.com/KYoru-0/Project-UTA) *(WIP)*
 
 An automated lyric-to-vocal synchronization engine leveraging deep learning and forced alignment for perfect phonetic timing in Japanese music.
 
