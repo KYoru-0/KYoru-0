@@ -49,7 +49,12 @@ Computer Science student, developer and digital creator.
 
 ✦ **Digital Content Creation:**  
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![【NTE | 6】 a 20-year-old guy living his dream in #nte](https://ytcards.demolab.com/?id=p8tnkgaLhmg&title=%E3%80%90NTE+%7C+6%E3%80%91+a+20-year-old+guy+living+his+dream+in+%23nte&lang=en&timestamp=1789353516&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "【NTE | 6】 a 20-year-old guy living his dream in #nte")](https://www.youtube.com/watch?v=p8tnkgaLhmg)
+[![miku](https://ytcards.demolab.com/?id=9ysnbD2irdU&title=miku&lang=en&timestamp=1789292677&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "miku")](https://www.youtube.com/shorts/9ysnbD2irdU)
+[![【Strinova | 1】 a 20-year-old with no aim playing #strinova](https://ytcards.demolab.com/?id=Z9IPMjhP08Y&title=%E3%80%90Strinova+%7C+1%E3%80%91+a+20-year-old+with+no+aim+playing+%23strinova&lang=en&timestamp=1789208216&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "【Strinova | 1】 a 20-year-old with no aim playing #strinova")](https://www.youtube.com/watch?v=Z9IPMjhP08Y)
+[![【NTE | 5】 a 20-year-old guy living his dream in #nte](https://ytcards.demolab.com/?id=eW3ukF_PixI&title=%E3%80%90NTE+%7C+5%E3%80%91+a+20-year-old+guy+living+his+dream+in+%23nte&lang=en&timestamp=1788946967&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "【NTE | 5】 a 20-year-old guy living his dream in #nte")](https://www.youtube.com/watch?v=eW3ukF_PixI)
+[![the oath - Yukana (JP Ver.) | Lyric Video + | Japanese/Romaji](https://ytcards.demolab.com/?id=978FcSvDplE&title=the+oath+-+Yukana+%28JP+Ver.%29+%7C+Lyric+Video+%2B+%7C+Japanese%2FRomaji&lang=en&timestamp=1788699625&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "the oath - Yukana (JP Ver.) | Lyric Video + | Japanese/Romaji")](https://www.youtube.com/watch?v=978FcSvDplE)
+[![【✧】 Anemone (Memento Mori OST) | Soft Piano Arrangement by KYoru](https://ytcards.demolab.com/?id=_OvBNzdpHKQ&title=%E3%80%90%E2%9C%A7%E3%80%91+Anemone+%28Memento+Mori+OST%29+%7C+Soft+Piano+Arrangement+by+KYoru&lang=en&timestamp=1787899794&background_color=%230d1117&title_color=%23ffffff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "【✧】 Anemone (Memento Mori OST) | Soft Piano Arrangement by KYoru")](https://www.youtube.com/watch?v=_OvBNzdpHKQ)
 <!-- END YOUTUBE-CARDS -->
 
 ✦ **Current Academic Research:** Application of evolutionary computation to closed high-utility itemset mining problem.
