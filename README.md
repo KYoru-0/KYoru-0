@@ -47,10 +47,7 @@ Computer Science student, developer and digital creator.
 
 ✦ **Music Composing and Arranging:** Composing, transcribing and arranging scores on [MuseScore](https://musescore.com/user/47514065). 
 
-✦ **Digital Content Creation:**  
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
+✦ **Digital Content Creation:** [YouTube](https://youtube.com/@KYoru-0)
 
 ✦ **Current Academic Research:** Application of evolutionary computation to closed high-utility itemset mining problem.
 
