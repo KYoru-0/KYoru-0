@@ -25,7 +25,7 @@
     <a href="https://twitter.com/KYoru____">
       <img src="https://img.shields.io/badge/Twitter-KYoru________-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
     </a>
-    <a href="https://youtube.com/@KYoru-0">
+    <a href="https://youtube.com/@きょる-KYoru">
       <img src="https://img.shields.io/badge/YouTube-KYoru-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
     </a>
     <a href="https://musescore.com/user/47514065">
@@ -47,7 +47,7 @@ Computer Science student, developer and digital creator.
 
 ✦ **Music Composing and Arranging:** Composing, transcribing and arranging scores on [MuseScore](https://musescore.com/user/47514065). 
 
-✦ **Digital Content Creation:** [YouTube](https://youtube.com/@KYoru-0)
+✦ **Digital Content Creation:** [YouTube](https://youtube.com/@きょる-KYoru)
 
 ✦ **Current Academic Research:** Application of evolutionary computation to closed high-utility itemset mining problem.
 
